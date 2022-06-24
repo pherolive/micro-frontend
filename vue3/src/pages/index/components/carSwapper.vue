@@ -73,9 +73,9 @@ export default {
   data () {
     return {
       swapperList: [
-        'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3884457102,4018905964&fm=26&gp=0.jpg',
-        'https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2329770250,1897745847&fm=26&gp=0.jpg',
-        'https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=395380977,272417941&fm=26&gp=0.jpg',
+        'https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/c8bce654f67c4f76a547b31e1b90c728~tplv-resize:2048:0.jpg?x-expires=1656672964&x-signature=jKYi7Na12uPUH%2FPO5%2BLY6zx2bm8%3D',
+        'https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/c8bce654f67c4f76a547b31e1b90c728~tplv-resize:2048:0.jpg?x-expires=1656672964&x-signature=jKYi7Na12uPUH%2FPO5%2BLY6zx2bm8%3D',
+        'https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/c8bce654f67c4f76a547b31e1b90c728~tplv-resize:2048:0.jpg?x-expires=1656672964&x-signature=jKYi7Na12uPUH%2FPO5%2BLY6zx2bm8%3D',
       ],
       currentIndex: 0,
       leftHover: false,

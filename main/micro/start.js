@@ -16,6 +16,7 @@ window.custom = custom
 rewriteRouter()
 
 export const registerMicroApps = (appList, lifeCycle) => {
+  console.log(appList)
   setList(appList)
 
   setMainLifecycle(lifeCycle)

@@ -4,8 +4,10 @@ import * as appInfo from '../store'
 export const subNavList = [
   {
     name: 'react15',// 唯一
+    // 告诉要去哪个入口获取
     entry: '//localhost:9002/',
     loading,
+    // 代表子应用在哪个容器显示
     container: '#micro-container',
     activeRule: '/react15',
     appInfo,

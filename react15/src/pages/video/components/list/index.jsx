@@ -40,7 +40,7 @@ class VideoList extends React.Component {
               <Link to='video-last'>
                 <div className="video-list-item">
                   <div className="video-list-item-img">
-                    <img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1695163309,2577846378&fm=26&gp=0.jpg" alt=""/>
+                    <img src="https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/1f4d8b02d76748218e88a76f9410135c~tplv-resize:2048:0.jpg?x-expires=1656673210&x-signature=%2Br2YvKvXkWPna6JAshnUxhIN4bQ%3D" alt=""/>
                     <img src={videoPlayerIcon} alt="" className="video-list-item-icon"/>
                   </div>
 
