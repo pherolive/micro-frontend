@@ -19,3 +19,5 @@ npm start-f 强制刷新依赖并启动
 - react16子应用
 - service 服务端
 - platform 发布平台
+
+使用yarn
